@@ -1,6 +1,10 @@
-var result = 0
+var http = require('http');
 
-for (var i = 2; i < process.argv.length; i++)
-  result += Number(process.argv[i])
+var server = http.createServer(function (request, response) {
+  response.writeHead(200, {"Content-Type": "text/plain"});
+  response.end("Hello " + request.headers['user-agent']);
+});
 
-console.log(result)
+server.listen(3030);
+
+console.log("Server running at http://127.0.0.1:3030/");
