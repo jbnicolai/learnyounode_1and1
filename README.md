@@ -1,4 +1,4 @@
-# Learn You The Node.js For Much Win!
+# Adapted version of the great [learnyounode](https://github.com/rvagg/learnyounode) for an internal workshop!
 
 **An intro to Node.js via a set of self-guided workshops.**
 
@@ -12,21 +12,6 @@
   4. **.. profit!**
 
 <b><code>learnyounode</code></b> will run through a series of Node.js workshops. Starting at a basic *"HELLO WORLD"* and moving on to more advanced exercises about dealing with synchronous & asynchronous I/O, filesystem operations, TCP and HTTP networking, events and streams.
-
-Once you have finished <b><code>learnyounode</code></b>, graduate to <b><code>[stream-adventure](https://github.com/substack/stream-adventure)</code></b> for a set of exercises that dig in to Node's streams.
-
-### Contributors
-
-<b><code>learnyounode</code></b> is proudly brought to you by the following hackers:
-
-<table><tbody>
-<tr><th align="left">Rod Vagg</th><td><a href="https://github.com/rvagg">GitHub/rvagg</a></td><td><a href="http://twitter.com/rvagg">Twitter/@rvagg</a></td></tr>
-<tr><th align="left">Andrey Sidorov</th><td><a href="https://github.com/sidorares">GitHub/sidorares</a></td><td><a href="http://twitter.com/sidorares">Twitter/@sidorares</a></td></tr>
-<tr><th align="left">Julián Duque</th><td><a href="https://github.com/julianduque">GitHub/julianduque</a></td><td><a href="http://twitter.com/julian_duque">Twitter/@julian_duque</a></td></tr>
-<tr><th align="left">Lars-Magnus Skog</th><td><a href="https://github.com/ralphtheninja">GitHub/ralphtheninja</a></td><td><a href="http://twitter.com/ralphtheninja">Twitter/@ralphtheninja</a></td></tr>
-<tr><th align="left">Tim Inman</th><td><a href="https://github.com/thehack">GitHub/thehack</a></td><td><a href="http://twitter.com/timinman">Twitter/@timinman</a></td></tr>
-<tr><th align="left">Dan Flettre</th><td><a href="https://github.com/Flet">GitHub/Flet</a></td><td><a href="http://twitter.com/flettre">Twitter/@flettre</a></td></tr>
-</tbody></table>
 
 ## License
 
