@@ -1,8 +1,8 @@
 {
-  "name": "learnyounode",
-  "version": "1.0.1",
-  "description": "Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.",
-  "author": "Rod Vagg <rod@vagg.org> (https://github.com/rvagg)",
+  "name": "learnyounode_1and1",
+  "version": "1.0.0",
+  "description": "Self-guided NodeJS workshop. Adapted version of learnyounode",
+  "author": "Michael Müller <haimich@gmx.net> (https://github.com/haimich)",
   "contributors": [
     "Rod Vagg <r@va.gg> (https://github.com/rvagg)",
     "Andrey Sidorov <sidorares@yandex.ru> (https://github.com/sidorares)",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rvagg/learnyounode.git"
+    "url": "https://github.com/haimich/learnyounode_1and1.git"
   },
   "license": "MIT",
   "dependencies": {
