@@ -6,4 +6,8 @@ Write a program that starts a simple http server on port 3030 and prints the fol
 * see the NodeJS api documentation on http://npmjs.org/ for further details
 * if you are stuck, try to print out the request object to find out where the user-agent is located
 
+## Note about learnyounode verify
+* you can use `learnyounode verify` as in the other exercises but the server will continue running
+* to skip the verify screen just press ctrl-c
+
 ----------------------------------------------------------------------
